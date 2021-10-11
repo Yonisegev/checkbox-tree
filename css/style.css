@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+.tree-list {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Yehonathan Segev - https://github.com/Yonisegev */
