@@ -16,7 +16,7 @@ const tree = {
                     id: 3,
                     parentId: 2,
                     isChecked: false,
-                    text: 'Child in child',
+                    text: 'Child in child #1',
                     children: [
                         {
                             id: 5,
@@ -33,7 +33,14 @@ const tree = {
                             children: []
                         },
                     ]
-                }
+                },
+                {
+                    id: 10,
+                    parentId: 2,
+                    isChecked: false,
+                    text: 'Child in child #2',
+                    children: []
+                },
             ]
         },
         {
